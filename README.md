@@ -1,5 +1,5 @@
 # SpaceOut
-SpaceOut! is a sci-fi remimaging of the classic Atari game Breakout! Players are tasked with blasting away an invading UFO set on destroying the Earth with a ship that moves at lightspeed. It utilizes Processing, a Java-based language, and was created by me for my Introduction to Digital Arts and Sciences class at the University of Florida.
+SpaceOut! is a sci-fi reimagining of the classic Atari game Breakout! Players are tasked with blasting away an invading UFO set on destroying the Earth with a ship that moves at lightspeed. It utilizes Processing, a Java-based language, and was created by me for my Introduction to Digital Arts and Sciences class at the University of Florida.
 
 ## Dependencies
 - [Processing 3.4](https://processing.org/reference/)
